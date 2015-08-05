@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM centos:centos7
 MAINTAINER Taiki Sugawara <buzz.taiki@gmail.com>
 
 RUN yum update -y
