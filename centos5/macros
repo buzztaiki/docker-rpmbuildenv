@@ -1,0 +1,2 @@
+%dist .el5
+%_sharedstatedir /var/lib
